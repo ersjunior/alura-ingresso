@@ -1,7 +1,7 @@
 <h1>Ingressos - Praticando lógica com desafios</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Neste projeto, praticaremos lógica de programação com JavaScript.<br><br>O Desafio era fazer com que .<br><br> Link do projeto: </p>
+<p>Neste projeto, praticaremos lógica de programação com JavaScript.<br><br>O Desafio era fazer com que ao escolher o tipo, definir a quantidade de ingresso e clicar em comprar, aparecer um alerta de compra ou indisponibilidade e reduzir a quantidade de ingressos disponíveis em casa tipo no canto inferior direito.<br><br> Link do projeto: https://alura-ingresso.vercel.app/</p>
 
 ## 🚀 Tecnologias
 <div>
